@@ -1,0 +1,14 @@
+.registration_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background: greenyellow;
+    color:cornsilk;
+    border: none;
+    border-radius: 3px;
+    width: 80px;
+    font-style: bold;
+}
